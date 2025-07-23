@@ -19,8 +19,8 @@
 The expermental data can be found in this [link](https://github.com/zhaoqichang/HpyerAttentionDTI).
 
 
-    $ python DrugBank_data.py
-    $ python Davis_data.py
+    $ python DTI_data.py
+    $ python main.py
 
 
 ## Acknowledgments
