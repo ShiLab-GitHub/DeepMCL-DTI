@@ -1,11 +1,7 @@
 # DeepMCL-DTI
  DeepMCL-DTI: predicting drug-target interactions using multi-channel deep learning with attention mechanism
 
-	A novel multi-channel deep learning DTI prediction model named DeepMCL-DTI based on attention. 
-	We firstly perform four channels to extract drug and protein features. 
-	A novel interact-attention module is used to model the semantic interdependence of each drug-target pair in spatial and channel dimensions.
-	DeepMCL-DTI exhibits improved performance compared with several state-of-the-art methods.
-	The case study on COVID-19 verifies the practical potential of DeepMCL-DTI.
+A novel multi-channel deep learning DTI prediction model named DeepMCL-DTI based on attention. We firstly perform four channels to extract drug and protein features. A novel interact-attention module is used to model the semantic interdependence of each drug-target pair in spatial and channel dimensions. DeepMCL-DTI exhibits improved performance compared with several state-of-the-art methods. The case study on COVID-19 verifies the practical potential of DeepMCL-DTI.
 
 
 
@@ -16,9 +12,6 @@
 
 ## Run the DeepMCL-DTI model for DTI prediction
 ### Preprocess the data.
-The expermental data can be found in this [link](https://github.com/zhaoqichang/HpyerAttentionDTI).
-
-
     $ python DTI_data.py
     $ python main.py
 
