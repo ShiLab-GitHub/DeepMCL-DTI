@@ -17,10 +17,11 @@ A novel multi-channel deep learning DTI prediction model named DeepMCL-DTI based
 
 
 ## Acknowledgments
-1. We really thank Mehdi et al. open the source code of AttentionSiteDTI at this [link](https://github.com/yazdanimehdi/AttentionSiteDTI). The AttentionSiteDTI help us to preprocess drug data.
+1. We sincerely acknowledge Mehdi et al. for making the source code of AttentionSiteDTI publicly available[link](https://github.com/yazdanimehdi/AttentionSiteDTI). The AttentionSiteDTI open-source resource was invaluable for our drug data preprocessing workflow, laying a critical foundation for this study.
 
-2. We really thank Yunan Zhao et al. open the dataset in this papaer "Zhao Q, Zhao H, Zheng K, et al. HyperAttentionDTI: improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism. Bioinformatics 2022; 38:655–662"
+2. We also express our gratitude to Yunan Zhao and colleagues for sharing the dataset used in their work: Zhao Q, Zhao H, Zheng K, et al. HyperAttentionDTI: improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism. Bioinformatics 2022; 38:655–662. This dataset provided essential support for our experimental design and validation.
+ 
+3. The code developed in this study partially references the code employed in previous research by [Mehdi et al.](https://github.com/yazdanimehdi/AttentionSiteDTI)
+  and [Zhao et al.](https://github.com/zhaoqichang/HpyerAttentionDTI).
 
-We will Keep updating the data and code of this research project.
-  The code of this study is refer to the previous research results of [Mehdi et al.](https://github.com/yazdanimehdi/AttentionSiteDTI)
-  and [Zhao et al.](https://github.com/zhaoqichang/HpyerAttentionDTI)
+We will continue to update the data and code associated with this research project and make them publicly available to facilitate reproducibility and further advancements in the field.
