@@ -1,4 +1,4 @@
-Paper: ["DeepMCL-DTI: predicting drug-target interactions using multi-channel deep learning with attention mechanism"] (https://doi.org/10.1007/s11030-025-11402-4)  published in Molecular Diversity: https://link.springer.com/article/10.1007/s11030-025-11402-4
+Paper ["DeepMCL-DTI: predicting drug-target interactions using multi-channel deep learning with attention mechanism"](https://doi.org/10.1007/s11030-025-11402-4) published in Molecular Diversity: https://link.springer.com/article/10.1007/s11030-025-11402-4
 
 # DeepMCL-DTI
 A novel multi-channel deep learning DTI prediction model named DeepMCL-DTI based on attention. We firstly perform four channels to extract drug and protein features. A novel interact-attention module is used to model the semantic interdependence of each drug-target pair in spatial and channel dimensions. DeepMCL-DTI exhibits improved performance compared with several state-of-the-art methods. The case study on COVID-19 verifies the practical potential of DeepMCL-DTI.
